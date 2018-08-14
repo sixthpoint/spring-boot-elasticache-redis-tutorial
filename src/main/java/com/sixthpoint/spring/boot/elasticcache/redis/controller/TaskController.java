@@ -1,8 +1,8 @@
-package com.sixthpoint.redis.example.controller;
+package com.sixthpoint.spring.boot.elasticcache.redis.controller;
 
-import com.sixthpoint.redis.example.controller.util.ResponseUtil;
-import com.sixthpoint.redis.example.service.TaskService;
-import com.sixthpoint.redis.example.service.dto.TaskDTO;
+import com.sixthpoint.spring.boot.elasticcache.redis.controller.util.ResponseUtil;
+import com.sixthpoint.spring.boot.elasticcache.redis.service.TaskService;
+import com.sixthpoint.spring.boot.elasticcache.redis.service.dto.TaskDTO;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

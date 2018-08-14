@@ -1,6 +1,6 @@
-package com.sixthpoint.redis.example.service;
+package com.sixthpoint.spring.boot.elasticcache.redis.service;
 
-import com.sixthpoint.redis.example.service.dto.TaskDTO;
+import com.sixthpoint.spring.boot.elasticcache.redis.service.dto.TaskDTO;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;

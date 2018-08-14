@@ -1,4 +1,4 @@
-package com.sixthpoint.redis.example;
+package com.sixthpoint.spring.boot.elasticcache.redis;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ExampleApplicationTests {
+public class SpringBootElastiCacheRedisApplicationTests {
 
     @Test
     public void contextLoads() {

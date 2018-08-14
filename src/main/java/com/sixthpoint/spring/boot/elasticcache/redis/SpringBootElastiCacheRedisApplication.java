@@ -1,12 +1,12 @@
-package com.sixthpoint.redis.example;
+package com.sixthpoint.spring.boot.elasticcache.redis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ExampleApplication {
+public class SpringBootElastiCacheRedisApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ExampleApplication.class, args);
+        SpringApplication.run(SpringBootElastiCacheRedisApplication.class, args);
     }
 }

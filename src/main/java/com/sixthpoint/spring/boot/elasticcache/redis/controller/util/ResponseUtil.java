@@ -1,4 +1,4 @@
-package com.sixthpoint.redis.example.controller.util;
+package com.sixthpoint.spring.boot.elasticcache.redis.controller.util;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package com.sixthpoint.redis.example.config;
+package com.sixthpoint.spring.boot.elasticcache.redis.config;
 
 import com.google.common.collect.Lists;
 import org.springframework.context.annotation.Bean;
@@ -25,7 +25,7 @@ public class SwaggerConfig {
     public Docket api() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.sixthpoint.redis.example.controller"))
+                .apis(RequestHandlerSelectors.basePackage("com.sixthpoint.spring.boot.elasticcache.redis.controller"))
                 .apis(RequestHandlerSelectors.any())
                 .paths(PathSelectors.any())
                 .build()

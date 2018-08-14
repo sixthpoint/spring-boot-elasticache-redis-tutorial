@@ -1,4 +1,4 @@
-package com.sixthpoint.redis.example.service.dto;
+package com.sixthpoint.spring.boot.elasticcache.redis.service.dto;
 
 import lombok.Data;
 

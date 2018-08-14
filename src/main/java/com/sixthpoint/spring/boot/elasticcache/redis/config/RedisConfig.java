@@ -1,4 +1,4 @@
-package com.sixthpoint.redis.example.config;
+package com.sixthpoint.spring.boot.elasticcache.redis.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cache.CacheManager;
