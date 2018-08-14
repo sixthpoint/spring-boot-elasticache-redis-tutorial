@@ -1,2 +1,2 @@
-# elastic-cache-redis-tutorial
-Building a spring boot 2.x application utilizing redis for caching
+# Spring Boot 2.x + Elasticache Redis Tutorial
+
